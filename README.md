@@ -1,5 +1,5 @@
 # Panorama-Registration-Stitching
-This exercise focuses on the process of automatic "Stereo Mosaicking" using a sequence of images that scan a scene from left to right. The main steps involved in this algorithm are registration and stitching.
+This project focuses on the process of automatic "Stereo Mosaicking" using a sequence of images that scan a scene from left to right. The main steps involved in this algorithm are registration and stitching.
 
 Registration: The geometric transformation between consecutive image pairs is determined. This is achieved by:
 
